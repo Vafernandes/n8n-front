@@ -13,7 +13,7 @@ const translations = {
     cta: {
       primary: 'Falar com o agente',
       secondary: 'Iniciar um chat no WhatsApp',
-      whatsappMessage: 'Olá! Quero ativar o agente financeiro Mandacaru.',
+      whatsappMessage: 'Olá! Quero cadastrar uma despesa.',
     },
     playbook: {
       label: 'Como funciona?',
@@ -73,7 +73,7 @@ const translations = {
     cta: {
       primary: 'Talk to the agent',
       secondary: 'Start a WhatsApp chat',
-      whatsappMessage: 'Hi! I want to activate the Mandacaru financial agent.',
+      whatsappMessage: 'Hello! I would like to register an expense.',
     },
     playbook: {
       label: 'How does it work?',
